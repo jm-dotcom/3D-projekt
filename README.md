@@ -23,3 +23,5 @@ Najzanimljiviji aspekti ovog projekta su
 usklađivanje elemenata, dinamika pokreta i praćenje , što doprinosi cjelokupnom vizualnom dojmu.
 
 Ako želite pogledati projekt potrebno je preuzeti datoteku eraphones_comm.blend i otvoriti je u blenderu.
+
+Link na prezentaciju: https://drive.google.com/file/d/1fs-gH_TacD19QIiCOoRS-9MwKiZjBuN5/view?usp=drive_link
