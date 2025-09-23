@@ -21,3 +21,5 @@ Najzanimljiviji dijelovi
 Najzanimljiviji aspekti ovog projekta su 
 
 usklađivanje elemenata, dinamika pokreta i praćenje , što doprinosi cjelokupnom vizualnom dojmu.
+
+Ako želite pogledati projekt potrebno je preuzeti datoteku eraphones_comm.blend i otvoriti je u blenderu.
